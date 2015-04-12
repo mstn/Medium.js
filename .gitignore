@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+bower_components
+
+# temporary files generated for meteor integration
+/package.js
+.build*
